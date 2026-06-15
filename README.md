@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/capa-sgro.jpeg">
+</p>
+
 # 🌱 SGRO - Sistema de Gerenciamento de Resíduos Orgânicos
 
 
@@ -18,6 +22,30 @@ Ao invés de descartar alimentos vencidos ou impróprios para consumo de maneira
 https://youtu.be/R7dm369uLvE
 
 > Assista ao vídeo para visualizar o fluxo completo do sistema e suas funcionalidades implementadas.
+
+---
+
+## 📷 Screenshots
+
+### Tela de Login do Supermercado
+
+![Tela de Login](images/login-sup.png)
+
+### Registro de Resíduos
+
+![Registro de Resíduos](images/registrar-res.png)
+
+### Tela de Login da Usina
+
+![Tela de Login](images/login-usi.png)
+
+### Aceitar Chamado
+
+![Chamados Disponíveis](images/aceitar-chamado.png)
+
+### Finalização da Coleta
+
+![Finalização da Coleta](images/confirmar-coleta.png)
 
 ---
 
