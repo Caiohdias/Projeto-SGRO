@@ -27,28 +27,30 @@ https://youtu.be/R7dm369uLvE
 
 ## 📷 Screenshots
 
+Prints das principais telas do sistema:
+
 <p align="center">
-  <img src="images/login-sup.png" width="45%"><br>
+  <img src="images/login-sup.png" width="35%"><br>
   <b>Tela de Login do Supermercado</b>
 </p>
 
 <p align="center">
-  <img src="images/login-usi.png" width="45%"><br>
-  <b>Tela de Login da Usina</b>
-</p>
-
-<p align="center">
-  <img src="images/registrar-res.png" width="45%"><br>
+  <img src="images/registrar-res.png" width="35%"><br>
   <b>Registro de Resíduos</b>
 </p>
 
 <p align="center">
-  <img src="images/aceitar-chamado.png" width="45%"><br>
+  <img src="images/login-usi.png" width="35%"><br>
+  <b>Tela de Login da Usina</b>
+</p>
+
+<p align="center">
+  <img src="images/aceitar-chamado.png" width="35%"><br>
   <b>Aceitar Chamado</b>
 </p>
 
 <p align="center">
-  <img src="images/confirmar-coleta.png" width="45%"><br>
+  <img src="images/confirmar-coleta.png" width="35%"><br>
   <b>Finalização da Coleta</b>
 </p>
 
