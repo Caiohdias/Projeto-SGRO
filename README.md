@@ -1,5 +1,11 @@
 <p align="center">
-  <img src="images/capa-sgro.jpeg">
+  <img src="https://img.shields.io/badge/Java-17-orange">
+  <img src="https://img.shields.io/badge/POO-Oriented%20Programming-blue">
+  <img src="https://img.shields.io/badge/Status-Concluído-brightgreen">
+</p>
+
+<p align="center">
+  <img src="images/capa-sgro.jpeg" width="65%">
 </p>
 
 # 🌱 SGRO - Sistema de Gerenciamento de Resíduos Orgânicos
