@@ -27,25 +27,30 @@ https://youtu.be/R7dm369uLvE
 
 ## 📷 Screenshots
 
-### Tela de Login do Supermercado
+<p align="center">
+  <img src="images/login-sup.png" width="45%"><br>
+  <b>Tela de Login do Supermercado</b>
+</p>
 
-![Tela de Login](images/login-sup.png)
+<p align="center">
+  <img src="images/login-usi.png" width="45%"><br>
+  <b>Tela de Login da Usina</b>
+</p>
 
-### Registro de Resíduos
+<p align="center">
+  <img src="images/registrar-res.png" width="45%"><br>
+  <b>Registro de Resíduos</b>
+</p>
 
-![Registro de Resíduos](images/registrar-res.png)
+<p align="center">
+  <img src="images/aceitar-chamado.png" width="45%"><br>
+  <b>Aceitar Chamado</b>
+</p>
 
-### Tela de Login da Usina
-
-![Tela de Login](images/login-usi.png)
-
-### Aceitar Chamado
-
-![Chamados Disponíveis](images/aceitar-chamado.png)
-
-### Finalização da Coleta
-
-![Finalização da Coleta](images/confirmar-coleta.png)
+<p align="center">
+  <img src="images/confirmar-coleta.png" width="45%"><br>
+  <b>Finalização da Coleta</b>
+</p>
 
 ---
 
