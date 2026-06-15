@@ -13,7 +13,9 @@ Ao invés de descartar alimentos vencidos ou impróprios para consumo de maneira
 
 ## 🎥 Demonstração
 
-📹 Vídeo de apresentação disponível neste repositório.
+▶️ Vídeo de apresentação do sistema:
+
+https://youtu.be/R7dm369uLvE
 
 > Assista ao vídeo para visualizar o fluxo completo do sistema e suas funcionalidades implementadas.
 
